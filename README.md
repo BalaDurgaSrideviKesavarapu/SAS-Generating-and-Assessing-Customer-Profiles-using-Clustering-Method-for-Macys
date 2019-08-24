@@ -1,0 +1,2 @@
+# SAS-Generating-and-Assessing-Customer-Profiles-using-Clustering-Method-for-Macys
+ Macy’s Department store has used their purchasing data warehouse to integrate purchases and customer demographics data on 1966 of its customers. Macy’s wants to develop a marketing campaign by identifying different customer profiles and target each one differently. Developed a cluster analysis model to identify at least 5 customer profiles. Developed individual predictive models for each cluster. 
